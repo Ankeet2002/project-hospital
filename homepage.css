@@ -213,7 +213,8 @@ padding: 0%;}
   width:100%;
   height:auto;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-align: center;    
+  text-align: center; 
+  color: #f1f1f1;   
 
 }
 .flog input{
@@ -406,4 +407,3 @@ padding: 0%;}
 }
 
 
-d
